@@ -1,2 +1,2 @@
-# HabitTracker
-Habit Tracker Application
+# To Do List
+To Do List Application
